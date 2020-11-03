@@ -4,3 +4,4 @@ appsettings.json
 init.txt
 Excluding_bin_obj.txt
 *.db
+.DS_STORE
